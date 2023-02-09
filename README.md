@@ -7,5 +7,7 @@ Since the 1930s, Walt Disney Studios has released more than 600 films covering a
 
 This project assumes that you can manipulate data using pandas and can make basic plots using Seaborn. You should also be familiar with statistical inference and be able to perform two-sample bootstrap hypothesis tests for difference of means.
 
-The dataset used in this project is a modified version of the Disney Character Success dataset from Kelly Garrett.
-The project is a part of my personal learning process at Datacamp.
+#### The dataset used in this project is a modified version of the Disney Character Success dataset from Kelly Garrett.
+Dataset: https://data.world/kgarrett/disney-character-success-00-16
+
+#### The project is a part of my personal learning process at Datacamp.
